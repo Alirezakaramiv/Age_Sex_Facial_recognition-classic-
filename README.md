@@ -1,4 +1,4 @@
-# age_sex_facial-recognition
+# age_sex_facial_recognition
 # Topic
 ## Age recognition
 
