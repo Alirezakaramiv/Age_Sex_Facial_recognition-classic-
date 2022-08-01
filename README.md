@@ -6,7 +6,7 @@
  - [Test models](https://github.com/Alirezakaramiv/age_sex_facial_recognition/blob/master/Test%20models.ipynb)
 ### Datasets
  - [UTKFace from kaggle](https://www.kaggle.com/datasets/jangedoo/utkface-new/download?datasetVersionNumber=1)
- - [CK+48 from kaggle]()
+ - [CK+48 from my drive](https://drive.google.com/drive/folders/1ZQjOz6qn1gfak0a-hUdSxWqwwQyd9TkI?usp=sharing)
 
 ### Model ardhitecture
  - [Age_Sex model architecture](https://github.com/Alirezakaramiv/age_sex_facial_recognition/blob/master/architecture1.png)
